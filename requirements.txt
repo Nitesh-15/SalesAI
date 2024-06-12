@@ -4,5 +4,6 @@ streamlit
 Ollama
 Langchain
 langchain_community
-PIL
+sqlalchemy
+Pillow
 vanna
