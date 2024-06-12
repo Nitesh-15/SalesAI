@@ -1,0 +1,8 @@
+gradientai
+scikit-learn
+streamlit
+Ollama
+Langchain
+langchain_community
+PIL
+vanna
